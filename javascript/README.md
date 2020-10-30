@@ -13,3 +13,5 @@ Additionally, `package.json` or `package-lock.json` files are reslut of `npm ini
 ## List | 목차
 
 - 201029001 : zerosheepmoo를 통해 배운 JavaScript의 기본 개념 + 동작 원리
+- JavaScript.info를 이용해 공부한 것들의 필기 파일들
+  - 201030002
