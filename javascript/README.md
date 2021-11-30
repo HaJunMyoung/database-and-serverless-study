@@ -10,8 +10,19 @@ I wonder to knwo about JavaScript that a essential thing to control website, use
 
 Additionally, `package.json` or `package-lock.json` files are reslut of `npm init` and `install`  for prepare anything while studying JavaScript.
 
+
+
 ## List | 목차
 
 - 201029001 : zerosheepmoo를 통해 배운 JavaScript의 기본 개념 + 동작 원리
-- JavaScript.info를 이용해 공부한 것들의 필기 파일들
-  - 201030002
+- 20103000{2~4} : JavaScript.info를 이용해 공부한 것들의 필기 파일들
+
+
+
+## Will do | 공부해야할 것들
+
+- 콜백함수
+  - 함수 안에서 실행되는 다른 함수들 중, 인자로 넘어오는 함수를 콜백이라 한다.
+- Poily fiils
+- 프로토타입
+- 클래스
